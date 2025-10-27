@@ -124,7 +124,7 @@ Students are expected to read Chapters 1-20 of the book and complete only the fo
 ## Resources
 
 -   R for Data Science (2e) — <https://r4ds.hadley.nz>
--   R and RStudio setup instructions in `setup_instructions.md`.
+-   R and RStudio setup instructions in `setup-instructions.md`.
 
 ## Final Reflection
 

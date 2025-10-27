@@ -1,13 +1,5 @@
 ### Configure .gitignore ###
 
-### Project Folders ###
-assets/
-data/
-output/
-resources/
-temp/
-libs/
-
 ### File types ###
 *.html
 
