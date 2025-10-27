@@ -2,13 +2,9 @@
 
 Welcome to the **R for Data Science (R4DS)** training program repository. This document outlines the professional standards and procedures for contributing assignments, updates, and solutions using **RStudio’s integrated Git tools**.
 
-------------------------------------------------------------------------
-
 ## 1. Purpose
 
 The purpose of this guide is to ensure that all participants follow a consistent workflow when completing exercises and submitting work through GitHub. By adhering to these standards, the repository remains organized, transparent, and version-controlled for collaborative learning.
-
-------------------------------------------------------------------------
 
 ## 2. System Requirements
 
@@ -20,8 +16,6 @@ Participants must have the following tools installed and configured before proce
 -   **GitHub Account** (registered and verified)
 -   Access to the [**r4ds** training repository](https://github.com/br-data-strategy/r4ds)
 
-------------------------------------------------------------------------
-
 ## 3. Forking the Repository
 
 Each participant must begin by **forking** the main [`r4ds`](https://github.com/br-data-strategy/r4ds) repository into their own GitHub account.
@@ -32,8 +26,6 @@ Each participant must begin by **forking** the main [`r4ds`](https://github.com/
 
 ![Screenshot Placeholder](assets/screenshots/fork-dark.png)\
 Forking the repository in GitHub (dark mode)
-
-------------------------------------------------------------------------
 
 ## 4. Cloning the Repository to RStudio
 
@@ -47,8 +39,6 @@ Next, participants must **clone** their personal fork into RStudio.
 ![Screenshot Placeholder](assets/screenshots/clone-dark.png)\
 Cloning a GitHub repository using RStudio’s Git integration
 
-------------------------------------------------------------------------
-
 ## 5. Opening and Working on Exercises
 
 Each chapter has a dedicated folder (e.g., `chapter-1`, `chapter-2`, etc.).\
@@ -60,8 +50,6 @@ Within each folder, participants will find starter `.R` scripts containing the e
 
 ![Screenshot Placeholder](assets/screenshots/edit-dark.png)\
 Editing exercises within RStudio
-
-------------------------------------------------------------------------
 
 ## 6. Committing Changes in RStudio
 
@@ -85,8 +73,6 @@ Committing changes within RStudio
 
 -   Include exercise or chapter numbers for clarity when possible.
 
-------------------------------------------------------------------------
-
 ## 7. Pushing Changes to GitHub
 
 Once committed, changes must be **pushed** to your remote fork on GitHub.
@@ -97,8 +83,6 @@ Once committed, changes must be **pushed** to your remote fork on GitHub.
 
 ![Screenshot Placeholder](assets/screenshots/push-dark.png)\
 Pushing local changes to GitHub
-
-------------------------------------------------------------------------
 
 ## 8. Submitting a Pull Request
 
@@ -115,8 +99,6 @@ Pull requests will be reviewed by training facilitators and discussed during gro
 ![Screenshot Placeholder](assets/screenshots/pr-dark.png)\
 Submitting a pull request to the main repository
 
-------------------------------------------------------------------------
-
 ## 9. Syncing Updates from the Main Repository
 
 To ensure your local copy remains current:
@@ -130,8 +112,6 @@ Perform this step before starting new exercises to avoid merge conflicts.
 ![Screenshot Placeholder](assets/screenshots/sync-dark.png)\
 Syncing updates from the main r4ds repository
 
-------------------------------------------------------------------------
-
 ## 10. Support and Office Hours
 
 Participants are encouraged to seek guidance through the following channels:
@@ -139,8 +119,6 @@ Participants are encouraged to seek guidance through the following channels:
 -   **Open Office Hours:** Drop-in sessions for individual or group support.
 -   **Group Review Sessions:** Scheduled every few chapters for collaborative discussion and feedback.
 -   **Issue Tracker:** Participants may open GitHub Issues for technical or procedural questions.
-
-------------------------------------------------------------------------
 
 ## 11. Code of Conduct
 
@@ -151,11 +129,3 @@ Participants are expected to:
 -   Acknowledge others’ contributions.
 
 -   Follow all data privacy and ethical guidelines established by BakerRipley.
-
-------------------------------------------------------------------------
-
-## 12. Revision History
-
-| Date | Description | Author |
-|------------------|----------------------------------|--------------------|
-| 2025-10-26 | Initial version created for R4DS training program | Jorge Martínez |
