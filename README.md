@@ -118,7 +118,7 @@ Students are expected to read Chapters 1-20 of the book and complete only the fo
 
 ## Office Hours & Group Review
 
--   **Open Office Hours:** Wednesdays, 2–4 PM (virtual).
+-   **Open Office Hours:** Tuesdays and Wednesdays, 3–4 PM.
 -   **Group Review Sessions:** Week 3 (Nov 17–23), Week 6 (Dec 15–21), Week 9 (Jan 19–25).
 
 ## Resources
