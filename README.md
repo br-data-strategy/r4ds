@@ -93,7 +93,7 @@ Students are expected to read Chapters 1-20 of the book and complete only the fo
 
     -   20.2.9: 1-6
 
-    -   Read Chapters 18 & 19
+    -   Read Chapters 18 & 19 (no exercises)
 
 -   **Week 10 (Jan 26–Feb 1): Final reflections, showcase, and wrap-up**
 
