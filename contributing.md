@@ -24,8 +24,10 @@ Each participant must begin by **forking** the main [`r4ds`](https://github.com/
 2.  Select the **“Fork”** button in the upper-right corner of the page.
 3.  Verify that the new fork appears under your own GitHub account.
 
-![Screenshot Placeholder](assets/screenshots/fork-dark.png)\
-Forking the repository in GitHub (dark mode)
+![](images/01-contribute-fork.png)
+
+![](images/02-contribute-fork.png)\
+Create a new fork.
 
 ## 4. Cloning the Repository to RStudio
 
@@ -36,7 +38,7 @@ Next, participants must **clone** their personal fork into RStudio.
 3.  Choose a suitable local directory to store the project (e.g., `~/Documents/r4ds`).
 4.  Click **Create Project** to initialize the local working environment.
 
-![Screenshot Placeholder](assets/screenshots/clone-dark.png)\
+![](images/03-contribute-clone.png)\
 Cloning a GitHub repository using RStudio’s Git integration
 
 ## 5. Opening and Working on Exercises
@@ -48,7 +50,7 @@ Within each folder, participants will find starter `.R` scripts containing the e
 -   Write your solutions directly below each exercise prompt.
 -   Use **comments (`#`)** to explain your reasoning and code choices.
 
-![Screenshot Placeholder](assets/screenshots/edit-dark.png)\
+![](images/04-contribute-exercise.png)\
 Editing exercises within RStudio
 
 ## 6. Committing Changes in RStudio
@@ -62,7 +64,7 @@ After completing one or more exercises, participants should **commit** their cha
     -   Example: `Completed Chapter 3 Exercises 1-3`
 5.  Click **Commit**. 📫
 
-![Screenshot Placeholder](assets/screenshots/commit-dark.png)\
+![](images/05-contribute-commit.png)\
 Committing changes within RStudio
 
 **Commit Message Best Practices:**
@@ -81,9 +83,6 @@ Once committed, changes must be **pushed** to your remote fork on GitHub.
 2.  Wait for confirmation that the changes were successfully uploaded.
 3.  Verify updates appear in your GitHub repository online.
 
-![Screenshot Placeholder](assets/screenshots/push-dark.png)\
-Pushing local changes to GitHub
-
 ## 8. Submitting a Pull Request
 
 When you are ready to submit your completed work:
@@ -96,9 +95,6 @@ When you are ready to submit your completed work:
 
 Pull requests will be reviewed by training facilitators and discussed during group review sessions.
 
-![Screenshot Placeholder](assets/screenshots/pr-dark.png)\
-Submitting a pull request to the main repository
-
 ## 9. Syncing Updates from the Main Repository
 
 To ensure your local copy remains current:
@@ -109,16 +105,12 @@ To ensure your local copy remains current:
 
 Perform this step before starting new exercises to avoid merge conflicts.
 
-![Screenshot Placeholder](assets/screenshots/sync-dark.png)\
-Syncing updates from the main r4ds repository
-
 ## 10. Support and Office Hours
 
 Participants are encouraged to seek guidance through the following channels:
 
 -   **Open Office Hours:** Drop-in sessions for individual or group support.
 -   **Group Review Sessions:** Scheduled every few chapters for collaborative discussion and feedback.
--   **Issue Tracker:** Participants may open GitHub Issues for technical or procedural questions.
 
 ## 11. Code of Conduct
 
