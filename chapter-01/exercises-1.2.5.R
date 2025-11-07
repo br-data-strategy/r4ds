@@ -9,8 +9,8 @@
 # Exercise placeholders below:
 #
 # Exercise 1 ----
-# (Exercise text)
-#
+#sentence sentence sentence
+#(Exercise text)
 # Your code below:
 #
 #
