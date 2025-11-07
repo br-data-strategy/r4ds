@@ -3,7 +3,7 @@
 # Source: https://r4ds.hadley.nz/data-visualize.html#exercises
 # NOTE: For full exercise text, see the linked R4DS chapter above.
 #
-# --- Exercises from R for Data Science (2e) — Section 1.2.5 ---
+# --- Exercises from R for Data Science (2e) — Section 1.2.5 --- 1-5, 7
 # Replace each '# (Exercise text)' line with the full exercise text from https://r4ds.hadley.nz
 #
 # Exercise placeholders below:
@@ -14,10 +14,9 @@ library(ggplot2)
 library(ggthemes)
 
 # Exercise 1 ----
-# (Exercise text)
+# How many rows are in penguins? How many columns?
 
 # Your code below:
-# 1. How many rows and columns in penguins? 
   # 344 rows and 8 columns
 
 
@@ -37,7 +36,7 @@ library(ggthemes)
     geom_point(mapping = aes (color = species))
 
 # Exercise 4 ----
-# 4.  What happens if you make a scatterplot of species vs. bill_depth_mm? 
+# What happens if you make a scatterplot of species vs. bill_depth_mm? 
     #Species is a categorical variable so they are just lines. 
     ggplot(
       data = penguins,
@@ -49,28 +48,17 @@ library(ggthemes)
     # Bar chart
     
 # Exercise 5 ----
-# 5.  Why does the following give an error and how would you fix it?
+# Why does the following give an error and how would you fix it?
     # does not denote an x or y axis. Would add x and y
     ggplot(data = penguins) + 
       geom_point()
 
     # Fixed version
-    ggplot(data = penguins) + 
+    ggplot(data = penguins, mapping = aes (x = bill_length_mm, y = bill_depth_mm)) + 
       geom_point()
 
-# Exercise 6 ----
-# 6.  What does the na.rm argument do in geom_point()? What is the default value of the argument? 
-    ## Create a scatterplot where you successfully use this argument set to TRUE.
-    # if false, missing values are removed. If true, missing values are silently removed
-
-    ggplot(
-      data = penguins,
-      mapping = aes (x = bill_length_mm, y = bill_depth_mm)
-    ) + 
-      geom_point(na.rm = )
-
 # Exercise 7 ----
-# 7. Add the following caption to the plot you made in the previous exercise: “Data come from the palmerpenguins package.” 
+# Add the following caption to the plot you made in the previous exercise: “Data come from the palmerpenguins package.” 
     ## Hint: Take a look at the documentation for labs().
     ggplot(
       data = penguins,
@@ -90,35 +78,6 @@ library(ggthemes)
       ) +
       scale_color_colorblind()
 
-    
-# Exercise 9 ----
-# 9. Run this code in your head and predict output. Then run in R. 
 
-    ggplot(
-      data = penguins,
-      mapping = aes(x = flipper_length_mm, y = body_mass_g, color = island)
-    ) +
-      geom_point() +
-      geom_smooth(se = FALSE) #Display confidence interval around smooth? (TRUE by default, see level to control.)
-
-# Exercise 10 ----
-# 10.  Will these two graphs look different. Why or why not?
-    # does not have color assigned and the line is global, not local
-    ggplot(
-      data = penguins,
-      mapping = aes(x = flipper_length_mm, y = body_mass_g)
-    ) +
-      geom_point() +
-      geom_smooth()
-
-    ggplot() +
-      geom_point(
-        data = penguins,
-        mapping = aes(x = flipper_length_mm, y = body_mass_g)
-      ) +
-      geom_smooth(
-        data = penguins,
-        mapping = aes(x = flipper_length_mm, y = body_mass_g)
-      )
 
 
