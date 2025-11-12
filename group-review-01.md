@@ -1,6 +1,6 @@
 # Group Review #1 - Donuts, Data, and D'oh
 
-![](https://image.tmdb.org/t/p/original/xSbCHliGcks410LZuy24BeWcLh6.jpg){width="890"}
+![](https://image.tmdb.org/t/p/original/xSbCHliGcks410LZuy24BeWcLh6.jpg)
 
 For this group review, we will explore the [Simpsons Dataset from Kaggle](https://github.com/rfordatascience/tidytuesday/blob/main/data/2025/2025-02-04/readme.md) by Prashant Banerjee. Follow the linked instructions from the tidytuesday repository to load and explore the data.
 
