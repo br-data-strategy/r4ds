@@ -3,7 +3,7 @@
 # Source: https://r4ds.hadley.nz/numbers.html#exercises-1
 # NOTE: For full exercise text, see the linked R4DS chapter above.
 #
-# --- Exercises from R for Data Science (2e) — Section 13.4.5 ---
+# --- Exercises from R for Data Science (2e) — Section 13.4.8 ---
 # Replace each '# (Exercise text)' line with the full exercise text from https://r4ds.hadley.nz
 #
 # Exercise placeholders below:
