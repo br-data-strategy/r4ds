@@ -118,10 +118,10 @@ Students are expected to read Chapters 1-20 of the book and complete only the fo
     - Week 1 (May 18, 1-4pm, in person)
         - Getting started with R, RStudio, and Github 
     - Week 3 (June 5, 10am-12pm, remote)
-        - Student Presentations: Data visualization
+        - Student presentations: Data visualization
         - Introduction to Quarto
     - Week 6 (June 26, 10am-12pm, remote)
-        - Student Presentations: Quarto Report
+        - Student presentations: Quarto Report
         - Quarto dashboard; Flexdashboard
     - Week 10 (July 23, 3-5pm, in person).
         - Student presentations: Dashboards, final reflections
