@@ -20,7 +20,7 @@ This 10-week training program uses *R for Data Science (2e)* to build practical 
 
 Students are expected to read Chapters 1-20 of the book and complete only the following exercises (section: exercise number):
 
--   **Week 1 (May 11–17): Chapter 1 — Data Visualization**
+-   **Week 1 (May 18–24): Chapter 1 — Data Visualization**
 
     -   1.2.5: 1-5, 7
 
@@ -30,7 +30,7 @@ Students are expected to read Chapters 1-20 of the book and complete only the fo
 
     -   1.6.1: 1-2
 
--   **Week 2 (May 18–24): Chapters 2–3 — Workflow & Transformation**
+-   **Week 2 (May 25–31): Chapters 2–3 — Workflow & Transformation**
 
     -   2.5: 1-3
 
@@ -38,25 +38,25 @@ Students are expected to read Chapters 1-20 of the book and complete only the fo
 
     -   3.5.7: 1-3
 
--   **Week 3 (May 25-31): Chapter 4 — Scripts & Foundations — *Group Review #1***
+-   **Week 3 (Jun 1-7): Chapter 4 — Scripts & Foundations — *Group Review #1***
 
     -   4.6: 1
 
     -   Read Chapters 5-8 (no exercises)
 
--   **Week 4 (Jun 1-7): Chapter 9 — Wrangling (part 1)**
+-   **Week 4 (Jun 8-14): Chapter 9 — Wrangling (part 1)**
 
     -   9.2.1: 1-4
 
     -   9.3.1: 1-3
 
--   **Week 5 (Jun 8-14): Chapter 9 — Wrangling (part 2)**
+-   **Week 5 (Jun 15-21): Chapter 9 — Wrangling (part 2)**
 
     -   9.4.1: 1-5
 
     -   9.6.1: 1-3
 
--   **Week 6 (Jun 15-21): Chapters 10–11 — Tibbles & Import — *Group Review #2***
+-   **Week 6 (Jun 22-28): Chapters 10–11 — Tibbles & Import — *Group Review #2***
 
     -   10.4.1: 1-2
 
@@ -64,7 +64,7 @@ Students are expected to read Chapters 1-20 of the book and complete only the fo
 
     -   11.6.1: 1-2
 
--   **Week 7 (Jun 22-28): Chapters 12–13 — Tidy & Relational Data**
+-   **Week 7 (Jun 29-Jul 5): Chapters 12–13 — Tidy & Relational Data**
 
     -   12.3.4: 1-2
 
@@ -74,13 +74,13 @@ Students are expected to read Chapters 1-20 of the book and complete only the fo
 
     -   13.4.8: 1-4
 
--   **Week 8 (Jun 29-Jul 5): Chapters 14–15 — Strings & Factors**
+-   **Week 8 (Jul 6-Jul 12): Chapters 14–15 — Strings & Factors**
 
     -   14.3.4: 2-3
 
     -   15.6.4: 1
 
--   **Week 9 (Jul 6-12): Chapters 16–17 & 20 — Dates/Times & Model basics — *Group Review #3***
+-   **Week 9 (Jul 13-19): Chapters 16–17 & 20 — Dates/Times & Model basics — *Group Review #3***
 
     -   16.4.1: 1-3
 
@@ -90,7 +90,7 @@ Students are expected to read Chapters 1-20 of the book and complete only the fo
 
     -   Read Chapters 18 & 19 (no exercises)
 
--   **Week 10 (Jul 13-19): Final reflections, showcase, and wrap-up**
+-   **Week 10 (Jul 20-23): Final reflections, showcase, and wrap-up**
 
 ## Learning Objectives
 
@@ -114,7 +114,11 @@ Students are expected to read Chapters 1-20 of the book and complete only the fo
 ## Office Hours & Group Review
 
 -   **Open Office Hours:** Tuesdays and Wednesdays, 3–4 PM.
--   **Group Review Sessions:** Week 1 (May 11 1-4pm, in person), Week 3 (May 29 10am-12pm, remote), Week 6 (June 19 10am-12pm, remote), Week 10 (July 16 3-4:30pm, in person).
+-   **Group Review Sessions:**
+    - Week 1 (May 18, 1-4pm, in person),
+    - Week 3 (June 5, 10am-12pm, remote),
+    - Week 6 (June 26, 10am-12pm, remote),
+    - Week 10 (July 23, 3-5pm, in person).
 
 ## Resources
 
