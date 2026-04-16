@@ -20,7 +20,7 @@ This 10-week training program uses *R for Data Science (2e)* to build practical 
 
 Students are expected to read Chapters 1-20 of the book and complete only the following exercises (section: exercise number):
 
--   **Week 1 (May 18–24): Chapter 1 — Data Visualization**
+-   **Week 1 (May 18–24): Chapter 1 — Data Visualization - Workshop: Getting Started**
 
     -   1.2.5: 1-5, 7
 
@@ -80,7 +80,7 @@ Students are expected to read Chapters 1-20 of the book and complete only the fo
 
     -   15.6.4: 1
 
--   **Week 9 (Jul 13-19): Chapters 16–17 & 20 — Dates/Times & Model basics — *Group Review #3***
+-   **Week 9 (Jul 13-19): Chapters 16–17 & 20 — Dates/Times & Model basics
 
     -   16.4.1: 1-3
 
@@ -90,7 +90,7 @@ Students are expected to read Chapters 1-20 of the book and complete only the fo
 
     -   Read Chapters 18 & 19 (no exercises)
 
--   **Week 10 (Jul 20-23): Final reflections, showcase, and wrap-up**
+-   **Week 10 (Jul 20-23): Final reflections, showcase, and wrap-up — Group Review #3***
 
 ## Learning Objectives
 
@@ -114,9 +114,9 @@ Students are expected to read Chapters 1-20 of the book and complete only the fo
 ## Office Hours & Group Review
 
 -   **Open Office Hours:** Tuesdays and Wednesdays, 3–4 PM.
+-   **Introductory Workshop**
+    - Week 1 (May 18, 1-4pm, in person): Getting started with R, RStudio, and Github 
 -   **Group Review Sessions:**
-    - Week 1 (May 18, 1-4pm, in person)
-        - Getting started with R, RStudio, and Github 
     - Week 3 (June 5, 10am-12pm, remote)
         - Student presentations: Data visualization
         - Introduction to Quarto
