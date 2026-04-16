@@ -102,7 +102,7 @@ Students are expected to read Chapters 1-20 of the book and complete only the fo
 ## Expectations
 
 -   Spend \~3–4 hours per week on readings and exercises.
--   Complete each week's exercises by the end of the week.
+-   Complete each week's exercises by the end of the week on Sundays at 11:30pm.
 -   Participate in three group review sessions.
 -   Document code and include brief comments explaining decisions.
 
@@ -115,10 +115,17 @@ Students are expected to read Chapters 1-20 of the book and complete only the fo
 
 -   **Open Office Hours:** Tuesdays and Wednesdays, 3–4 PM.
 -   **Group Review Sessions:**
-    - Week 1 (May 18, 1-4pm, in person),
-    - Week 3 (June 5, 10am-12pm, remote),
-    - Week 6 (June 26, 10am-12pm, remote),
+    - Week 1 (May 18, 1-4pm, in person)
+        - Getting started with R, RStudio, and Github 
+    - Week 3 (June 5, 10am-12pm, remote)
+        - Student Presentations: Data visualization
+        - Introduction to Quarto
+    - Week 6 (June 26, 10am-12pm, remote)
+        - Student Presentations: Quarto Report
+        - Quarto dashboard; Flexdashboard
     - Week 10 (July 23, 3-5pm, in person).
+        - Student presentations: Dashboards, final reflections
+        - Happy hour social
 
 ## Resources
 
