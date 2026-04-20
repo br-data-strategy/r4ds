@@ -12,7 +12,7 @@ This 10-week training program uses *R for Data Science (2e)* to build practical 
 
 ## Schedule & Key Dates
 
-**Start date:** May 11, 2026
+**Start date:** May 18, 2026
 
 **End date / Showcase:** Week of July 19, 2026
 
@@ -108,7 +108,7 @@ Students are expected to read Chapters 1-20 of the book and complete only the fo
 
 ## Submission Options
 
-1.  **GitHub (preferred for developers):** Create a branch, add/commit your `.R` script, and open a Pull Request to the repo `r4ds-training`.\
+1.  **GitHub (preferred for developers):** Create a branch, add/commit your `.R` script, and open a Pull Request to the repo `r4ds-training`.
 2.  **Shared folder (for non-GitHub participants):** Upload your completed `.R` script to the BakerRipley Data Training shared folder or email it to the training coordinator.
 
 ## Office Hours & Group Review
