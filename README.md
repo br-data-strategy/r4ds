@@ -102,7 +102,7 @@ Students are expected to read Chapters 1-20 of the book and complete only the fo
 ## Expectations
 
 -   Spend \~3–4 hours per week on readings and exercises.
--   Complete each week's exercises by the end of the week on Sundays at 11:30pm.
+-   Complete each week's exercises by the end of the week on Fridays by 5pm.
 -   Participate in three group review sessions.
 -   Document code and include brief comments explaining decisions.
 
