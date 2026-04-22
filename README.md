@@ -14,7 +14,7 @@ This 10-week training program uses *R for Data Science (2e)* to build practical 
 
 **Start date:** May 18, 2026
 
-**End date / Showcase:** Week of July 19, 2026
+**End date / Showcase:** July 23, 2026
 
 ### Weekly breakdown:
 
