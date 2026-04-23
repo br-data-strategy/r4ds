@@ -9,15 +9,33 @@
 # Exercise placeholders below:
 #
 # Exercise 1 ----
-# (Exercise text)
+# Restyle the following pipelines following the guidelines above.
+
+flights|>filter(dest=="IAH")|>group_by(year,month,day)|>summarize(n=n(),
+delay=mean(arr_delay,na.rm=TRUE))|>filter(n>10)
+
+flights|>filter(carrier=="UA",dest%in%c("IAH","HOU"),sched_dep_time>
+0900,sched_arr_time<2000)|>group_by(flight)|>summarize(delay=mean(
+arr_delay,na.rm=TRUE),cancelled=sum(is.na(arr_delay)),n=n())|>filter(n>10)
 #
 # Your code below:
-#
-#
-# Exercise 2 ----
-# (Exercise text)
-#
-# Your code below:
-#
-#
-# Continue as needed for the exercises assigned in the syllabus.
+install.packages("styler")
+library(nycflights13)
+library(tidyverse)
+library(styler)
+
+flights|>
+  filter(dest == "IAH")|>
+  group_by(year, month, day)|>
+  summarize(
+    n = n(), delay = mean(arr_delay, na.rm = TRUE))|>
+  filter(n > 10)
+
+flights|>
+  filter(carrier == "UA", dest%in%c("IAH", "HOU"), 
+         sched_dep_time > 0900, sched_arr_time < 2000)|>
+  group_by(flight)|>
+  summarize(
+    delay = mean(arr_delay,na.rm = TRUE), 
+    cancelled = sum(is.na(arr_delay)), n = n())|>
+  filter(n > 10)
